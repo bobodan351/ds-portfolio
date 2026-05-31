@@ -23,7 +23,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, React, TailwindCss, Node.js, and ExpressJs{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, Backend Integration,{" "}
                 </b>
               </i>
               and exploring new ways to bridge on-chain and off-chain systems.
