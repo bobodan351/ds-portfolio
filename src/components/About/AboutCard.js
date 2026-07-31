@@ -13,10 +13,10 @@ function AboutCard() {
             <br />
             I’m currently working as a{" "}
             <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I am currently pursuing a Bachelors Degree and a Nanodegree{" "}
-            <span className="purple">in Cybersecurity</span> from{" "}
-            <span className="purple">Federal University of Technology and Environmental Science. Vephla University</span>.
+            <span className="purple">D-Tech</span>.
+            <br />I am currently pursuing a Bachelors Degree and a Nanodegree in{" "}
+            <span className="purple">Cybersecurity</span> from{" "}
+            <span className="purple">Federal University of Technology and Environmental Science. </span>and <span className="purple">Vephla University.</span>
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
@@ -38,7 +38,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Dannysicks</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -25,7 +25,7 @@ function Projects() {
               imgPath={weChat}
               isBlog={false}
               title="weChat"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Daisy-UI, and MongoDB, ExpressJs, Socket.io, TailwindCss, Cloudinary. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends buillt with react.js, Daisy-UI, and MongoDB, ExpressJs, Socket.io, TailwindCss, Cloudinary. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/bobodan351/first-chat-app"
               demoLink="https://first-chat-app-limm.vercel.app/signup"
             />
